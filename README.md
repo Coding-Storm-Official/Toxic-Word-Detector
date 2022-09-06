@@ -11,7 +11,7 @@ The program using TextBlob to analyse the text and determine if it is a toxic or
 
 
 ## Accuracy
-The program is not 100% accurate and can works properly for only 1 word in a single string.
+The program is not 100% accurate and works properly for only 1 word in a single string.
 
 Thank you!
 
