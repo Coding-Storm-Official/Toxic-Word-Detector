@@ -1,16 +1,16 @@
 from textblob import TextBlob
 
-feedbacks = ['Idiot','Smart']
+text = ['Idiot','Smart']
 
 non_toxic = []
 toxic = []
 
-for feedback in feedbacks:
-    feedback_polarity = TextBlob(feedback).sentiment.polarity
-    if feedback_polarity > 0:
-        non_toxic.append(feedback)
+for texts in text:
+    text_polarity = TextBlob(text).sentiment.polarity
+    if text_polarity > 0:
+        non_toxic.append(text)
         continue
-    toxic.append(feedback)
+    toxic.append(text)
 
 print('Non toxic : ',non_toxic)
 print('Toxic : ',toxic)
