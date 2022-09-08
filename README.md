@@ -24,7 +24,7 @@ The program using TextBlob to analyse the text and determine if it is a toxic or
 ![Text](https://user-images.githubusercontent.com/96690322/188584499-75e4e382-8606-4d2d-a0d1-63914ccb5b47.png)
 
 > __Note__
-The program is not 100% accurate and might falsely flag non toxic texts as toxic and vice versa.
+The program is not 100% accurate and might falsely flag non toxic texts as toxic and vice versa.The software/license owner can be charged for damages.
 
 <br>
 
