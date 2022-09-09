@@ -7,7 +7,7 @@
   >
 </p>
 <div align = "center">
-The program using TextBlob to analyse the text and determine if it is a toxic or a non toxic text. 
+The program uses TextBlob to analyse the text and determine if it is a toxic or a non toxic text. 
 
 <br>
 <br>
