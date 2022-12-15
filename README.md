@@ -1,4 +1,4 @@
-# <div align="center">Text Sentiment Analysis</div> 
+# <div align="center">Toxic word detector</div> 
  <p align="center">
   <img 
     width="500"
