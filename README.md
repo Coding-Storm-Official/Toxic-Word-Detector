@@ -1,4 +1,4 @@
-# <div align="center">Toxic word detector</div> 
+# <div align="center">Toxic Word Detector</div> 
  <p align="center">
   <img 
     width="500"
