@@ -12,7 +12,7 @@ The program uses TextBlob to analyse the text and determine if it is a toxic or 
 <br>
 <br>
 
-![Logo](https://img.shields.io/github/commit-activity/w/Coding-Storm/Text-Sentimetal-Analysis?color=brightgreen&label=commits&logo=python&logoColor=gold&style=for-the-badge) &nbsp; &nbsp; &nbsp; ![Maintained - Yes](https://img.shields.io/badge/Maintained-Partially-gold?style=for-the-badge&logo=github&logoColor=gold) &nbsp; &nbsp; &nbsp; [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo)](https://opensource.org/licenses/Apache-2.0)
+![Maintained - Yes](https://img.shields.io/badge/Maintained-Partially-gold?style=for-the-badge&logo=github&logoColor=gold) &nbsp; &nbsp; &nbsp; [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo)](https://opensource.org/licenses/Apache-2.0)
 </div>
 
 ## Working of the Program
